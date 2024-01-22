@@ -1,7 +1,11 @@
 import React from "react";
 
 const page = () => {
-  return <div></div>;
+  return (
+    <div>
+      <h1> Srilanka </h1>
+    </div>
+  );
 };
 
 export default page;
